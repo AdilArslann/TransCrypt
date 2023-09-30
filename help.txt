@@ -1,0 +1,41 @@
+How to Use TransCrypt:
+
+TransCrypt is a versatile tool designed to assist with translating and practicing languages and converting images to text. This guide will take you through the process of using TransCrypt's various functionalities.
+
+#Translator
+
+The Translator page allows you to translate text between various formats. Here's how you use it:
+1. Launch the TransCrypt application.
+2. Navigate to the Translator page from the application's home screen.
+3. Select your desired input and output languages from the drop-down menus.
+4. Enter the text you wish to translate into the input box.
+5. The translated text will automatically appear in the output box. If you wish to reverse the translation, click the 'Switch' button.
+6. To translate a text file, click on 'Select File To Translate' and choose the file you wish to translate. The content of the file will automatically be translated.
+7. If you want to save the translated output, click on 'Save Output' and choose your desired save location.
+
+
+#Practice Mode
+
+The Practice Mode page lets you practice translating random text in various formats:
+1. Navigate to the Practice Mode page from the application's home screen.
+2. Select the language you wish to practice from the drop-down menu.
+3. Enter your desired length for the source text.
+4. Click 'New Text' to generate a new random text in the selected format. Try to translate this text into the chosen language.
+5. Enter your translation into the input box and click 'Check'. You'll then be informed if your translation was correct.
+
+
+# Image to Text
+
+The Image to Text page extracts text from image files:
+1. Navigate to the Image to Text page from the application's home screen.
+2. Click on 'Open Image File' and select the image file that contains the text you want to extract. The text will be extracted and displayed in the output box.
+3. To save the extracted text, click 'Save Output' and select your desired save location.
+
+
+##Limitations and Requirements
+
+Please be aware of the following limitations and requirements when using TransCrypt:
+- The accuracy of translations between languages other than plain English may vary.
+- The Image to Text feature's accuracy is dependent on the quality of the image. Images that are blurry or poorly lit may not yield accurate results.
+- The Practice Mode feature is intended as a practice tool and does not cover all possible translations.
+- TransCrypt requires the installation of Tesseract-OCR on your system. Ensure that Tesseract-OCR is installed and the correct path is specified in the TransCrypt.py file.
